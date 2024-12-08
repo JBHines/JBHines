@@ -1,16 +1,16 @@
-## Hi there 👋
+### *My Awesome Header*
+# About Me
 
-<!--
+
 **JBHines/JBHines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on ...  **Pre Class Homework**
+- 🌱 I’m currently learning ... The Basics 
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 I’m looking for help with ... **EVERYTHING**, Please help!
+- 💬 Ask me about ... My sneakers 👟
+- 📫 How to reach me: ...☎️ 867-5309 😆
+- ⚡ Fun fact: ...Wearing a tie can reduce blood flow to the brain by 7.5 per cent.
+
